@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+  #services {
+    background-color: var(--bs-purple) !important;
+    height: 500px;
+  }
+}
+
